@@ -4,6 +4,10 @@
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
 }
+body
+{
+    background-image: url(img/background.jpg);
+}
 header
 {
     position: fixed;
