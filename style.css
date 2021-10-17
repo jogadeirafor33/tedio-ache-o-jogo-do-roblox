@@ -40,12 +40,11 @@ section .play
     width: 500px;
     height: 50px;
     margin-top: 160px;
-    font-size: 2em;
+    font-size: 1.5em;
     border: 1px #000 solid;
     cursor: pointer;
     font-weight: 600;
     border-radius: 20px;
-    font-family: monospace;
     transition: border-color 0.5s;
     background-image: url(img/btn_bg.png);
 }
