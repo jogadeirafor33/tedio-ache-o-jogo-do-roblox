@@ -52,6 +52,7 @@ section .play
     border-radius: 20px;
     transition: border-color 0.5s;
     background-image: url(img/btn_bg.png);
+    color: #FFFF00;
 }
 section .play:hover
 {
